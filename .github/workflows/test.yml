@@ -1,5 +1,5 @@
 #__________Dmitriy Kalistratov production__________
-#__________________Github Action__________________
+#__________________Github Action___________________
 name: My-GitHubActions-Basics
 env:
   APPLICATION_NAME    : "MyFlask"
